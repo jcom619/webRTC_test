@@ -1,6 +1,6 @@
 .booth {
   width: 400px;
-  backgound: rgba(28,234,60, 0.5);
-  border: 10px;
+  background: rgba(255, 0, 0, 0.5);
+  border: 10px solid 08,34,10;
   margin: 0 auto;
 }
